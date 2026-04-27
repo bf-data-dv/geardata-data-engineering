@@ -70,7 +70,8 @@ J'ai appliqué une architecture à deux niveaux pour garantir la traçabilité :
 *Ce projet démontre une capacité à gérer le cycle de vie de la donnée, de la source brute jusqu'à une table de production certifiée.*
 
 ### 🔗 Liens du Projet
-* **Interface (Frontend) :** [geardata-engine.vercel.app](https://geardata-engine.vercel.app)
-* **Code Source Dashboard (React) :** [github.com/ton-pseudo/tapisvoiture](https://github.com/ton-pseudo/tapisvoiture)
+* **Site Web (Live) :** [geardata-engine.vercel.app](https://geardata-engine.vercel.app)
+* **Code Source Dashboard (React) :** [github.com/bf-data-dv/geardata-optimization](https://github.com/bf-data-dv/geardata-optimization)
+* **Pipeline Data Engineering (Java/SQL) :** [github.com/bf-data-dv/geardata-data-engineering](https://github.com/bf-data-dv/geardata-data-engineering)
 
 *Développé par [Brahim Fettih](https://github.com/bf-data-dv)*
